@@ -1,7 +1,7 @@
 # Sistema Solar
 Este foi o segundo trabalho pratico da disciplina de computacao grafica.
 
-<img src="https://github.com/TomAugst/SistemaSolar/blob/main/Screenshots/Sistema%20Solar.gif" width="600" height="400">
+<img src="https://github.com/TomAugst/SistemaSolar/blob/main/Screenshots/Sistema%20Solar.gif" width="600" height="300">
 
 O objetivo foi criar um modelo 3d que simule o nosso Sistema Solar com o intuito de praticar os conceitos de projeção perspectiva, iluminação, sombreamento e efeitos visuais vistos em sala de aula. E também nos divertir.
 
